@@ -1,3 +1,4 @@
+setuptools==58.2.0
 attrdict
 numpy==1.22.0
 pillow
